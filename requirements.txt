@@ -1,0 +1,6 @@
+asposestorage==1.0.2
+PyQt5==5.15.9
+beautifulsoup4==4.12.2
+cssutils==2.6.0
+qt_material==2.12
+PyQtWebEngine==5.15.6
